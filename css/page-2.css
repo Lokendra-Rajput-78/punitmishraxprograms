@@ -60,7 +60,7 @@ body{
     width:100%;
     background:black;
     padding:18px;
-    font-size:22px;
+    font-size: 12px !important;
     font-weight:600;
     color:white;
     border-radius:14px;
