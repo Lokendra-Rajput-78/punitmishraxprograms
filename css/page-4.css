@@ -33,11 +33,9 @@ body {
 .title {
     margin: 25px 0 10px;
     font-size: 31px !important;
-    font-family: "saira";
-    font-weight: 500;
-
+    /* font-family: "saira"; */
+    font-weight: 700;
     line-height: 1.4;
-
 }
 
 .arrow {
